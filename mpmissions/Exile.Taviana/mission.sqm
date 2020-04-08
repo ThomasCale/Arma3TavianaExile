@@ -22,39 +22,14 @@ class EditorData
 		aside[]={0.95428073,2.2503664e-006,0.29927588};
 	};
 };
-binarizationWanted=0;
 addons[]=
 {
 	"exile_client",
 	"A3_Ui_F",
-	"CUP_Misc3_Config",
-	"CUP_CAMisc",
-	"CUP_WheeledVehicles_Ural",
-	"CUP_WheeledVehicles_BRDM2",
-	"CUP_WheeledVehicles_Wolfhound",
-	"CUP_WheeledVehicles_M1030",
-	"CUP_WaterVehicles_Zodiac",
-	"A3_Soft_F_MRAP_01",
-	"A3_Structures_F_EPA_Mil_Scrapyard",
-	"A3_Structures_F_Civ_Garbage",
-	"CUP_CABuildings2_Misc_Cargo",
-	"A3_Structures_F_Civ_Camping",
-	"A3_Structures_F_EPA_Civ_Constructions",
-	"A3_Structures_F_Heli_Items_Electronics",
-	"extendedbase",
-	"A3_Structures_F_Bootcamp_Items_Electronics",
-	"A3_Structures_F_Mil_Flags",
-	"A3_Supplies_F_Heli_CargoNets",
-	"A3_Weapons_F_Ammoboxes",
-	"A3_Supplies_F_Exp_Ammoboxes",
-	"A3_Structures_F_Heli_Ind_Airport",
-	"CUP_WaterVehicles_LHD",
-	"CUP_Creatures_Military_Chedaki",
-	"CUP_Creatures_StaticWeapons",
-	"A3_Characters_F",
-	"A3_Characters_F_Mark",
-	"A3_Boat_F_Boat_Armed_01",
-	"CUP_AirVehciles_KA60"
+	"Ryanzombies",
+	"ryanzombiesfunctions",
+	"Ryanzombiesanims",
+	"Ryanzombiesfaces"
 };
 class AddonsMetaData
 {
@@ -72,155 +47,6 @@ class AddonsMetaData
 			name="Arma 3 - User Interface";
 			author="Bohemia Interactive";
 			url="https://www.arma3.com";
-		};
-		class Item3
-		{
-			className="CUP_Misc3_Config";
-			name="CUP_Misc3_Config";
-		};
-		class Item5
-		{
-			className="CUP_CAMisc";
-			name="CUP_CAMisc";
-		};
-		class Item6
-		{
-			className="CUP_WheeledVehicles_Ural";
-			name="CUP_WheeledVehicles_Ural";
-		};
-		class Item7
-		{
-			className="CUP_WheeledVehicles_BRDM2";
-			name="CUP_WheeledVehicles_BRDM2";
-		};
-		class Item8
-		{
-			className="CUP_WheeledVehicles_Wolfhound";
-			name="CUP_WheeledVehicles_Wolfhound";
-		};
-		class Item9
-		{
-			className="CUP_WheeledVehicles_M1030";
-			name="CUP_WheeledVehicles_M1030";
-		};
-		class Item10
-		{
-			className="CUP_WaterVehicles_Zodiac";
-			name="CUP_WaterVehicles_Zodiac";
-		};
-		class Item11
-		{
-			className="A3_Soft_F";
-			name="Arma 3 Alpha - Unarmored Land Vehicles";
-			author="Bohemia Interactive";
-			url="https://www.arma3.com";
-		};
-		class Item12
-		{
-			className="A3_Structures_F_EPA";
-			name="Arma 3 Survive Episode - Buildings and Structures";
-			author="Bohemia Interactive";
-			url="https://www.arma3.com";
-		};
-		class Item13
-		{
-			className="A3_Structures_F";
-			name="Arma 3 - Buildings and Structures";
-			author="Bohemia Interactive";
-			url="https://www.arma3.com";
-		};
-		class Item14
-		{
-			className="CUP_CABuildings2_Misc_Cargo";
-			name="CUP_CABuildings2_Misc_Cargo";
-		};
-		class Item15
-		{
-			className="A3_Structures_F_Heli";
-			name="Arma 3 Helicopters - Buildings and Structures";
-			author="Bohemia Interactive";
-			url="https://www.arma3.com";
-		};
-		class Item16
-		{
-			className="extendedbase";
-			name="extendedbase";
-		};
-		class Item17
-		{
-			className="A3_Structures_F_Bootcamp";
-			name="Arma 3 Bootcamp Update - Buildings and Structures";
-			author="Bohemia Interactive";
-			url="https://www.arma3.com";
-		};
-		class Item18
-		{
-			className="A3_Structures_F_Mil";
-			name="Arma 3 - Military Buildings and Structures";
-			author="Bohemia Interactive";
-			url="https://www.arma3.com";
-		};
-		class Item19
-		{
-			className="A3_Supplies_F_Heli";
-			name="Arma 3 Helicopters - Ammoboxes and Supplies";
-			author="Bohemia Interactive";
-			url="https://www.arma3.com";
-		};
-		class Item20
-		{
-			className="A3_Weapons_F";
-			name="Arma 3 Alpha - Weapons and Accessories";
-			author="Bohemia Interactive";
-			url="https://www.arma3.com";
-		};
-		class Item21
-		{
-			className="A3_Supplies_F_Exp";
-			name="Arma 3 Apex - Ammoboxes and Supplies";
-			author="Bohemia Interactive";
-			url="https://www.arma3.com";
-		};
-		class Item22
-		{
-			className="CUP_WaterVehicles_LHD";
-			name="CUP_WaterVehicles_LHD";
-		};
-		class Item23
-		{
-			className="CUP_Creatures_Military_Chedaki";
-			name="CUP_Creatures_Military_Chedaki";
-		};
-		class Item24
-		{
-			className="CUP_Creatures_StaticWeapons";
-			name="CUP_Creatures_StaticWeapons";
-		};
-		class Item25
-		{
-			className="A3_Characters_F";
-			name="Arma 3 Alpha - Characters and Clothing";
-			author="Bohemia Interactive";
-			url="https://www.arma3.com";
-		};
-		class Item26
-		{
-			className="A3_Characters_F_Mark";
-			name="Arma 3 Marksmen - Characters and Clothing";
-			author="Bohemia Interactive";
-			url="https://www.arma3.com";
-		};
-		class Item27
-		{
-			className="A3_Boat_F";
-			name="Arma 3 Alpha - Boats and Submersibles";
-			author="Bohemia Interactive";
-			url="https://www.arma3.com";
-		};
-		class Item28
-		{
-			className="CUP_AirVehciles_KA60";
-			name="CUP_AirVehciles_KA60";
 		};
 	};
 };
@@ -2578,22 +2404,6 @@ class Mission
 			drawBorder=1;
 			id=1100;
 			atlOffset=-35.028526;
-		};
-		class Item33
-		{
-			dataType="Object";
-			class PositionInfo
-			{
-				position[]={157626.89,7716.4819,46926.59};
-				angles[]={0,2.4728272,0};
-			};
-			side="Empty";
-			class Attributes
-			{
-			};
-			id=1241;
-			type="Land_Misc_Cargo2D";
-			atlOffset=7758.4497;
 		};
 	};
 };
