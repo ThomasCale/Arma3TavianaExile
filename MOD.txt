@@ -1,0 +1,23 @@
+Taviana Exile
+
+///////////////////////////////////////
+		Benödigt diese Mods
+///////////////////////////////////////
+
+@Arma_3_Taviana_0.4.1
+
+@CBA_A3
+
+@CUP_Terrains_-_Core
+
+@CUP_Terrains_-_Maps
+
+@CUP_Units
+
+@CUP_Vehicles
+
+@CUP_Weapons
+
+@ExileMod
+
+@Zombies_and_Demons

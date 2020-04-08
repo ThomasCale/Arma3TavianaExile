@@ -1,0 +1,122 @@
+#define true 1
+#define false 0
+#include "RscDefines.hpp"
+#include "config.cpp"
+#include "R3F_LOG\desc_include.h"
+#include "addons\paintshop\Halv_defines.hpp"
+#include "addons\paintshop\paintshop.hpp"
+#include "custom\restartWarnings\config.cpp"
+#include "xs\spawn\Dialog\xsSpawnDefines.hpp"
+#include "xs\spawn\Dialog\xsSpawnDiaglog.hpp"
+#include "ExAdClient\ExAd.cpp"
+///////////////////////////////////////////////////////////////////////////////
+// Server Settings - Modify at will
+///////////////////////////////////////////////////////////////////////////////
+author = "by Fleischer";
+onLoadName = "Exile Taviana";
+onLoadMission= "www.exilemod.com";
+loadScreen = "logo.paa"; 
+disableChannels[] = {0, 2};
+OnLoadIntro = "";
+OnLoadIntroTime = false;
+OnLoadMissionTime = false;
+unsafeCVL = 1;
+
+class Header
+{
+    gameType = Survive; // Do NOT change this
+    minPlayers = 1;
+    maxPlayers = 100;
+};
+
+///////////////////////////////////////////////////////////////////////////////
+// Exile Settings - Do not change these!
+///////////////////////////////////////////////////////////////////////////////
+forceRotorLibSimulation = 2;
+skipLobby = 1;
+joinUnassigned = 1;
+respawn = "BASE";
+respawnDelay = 300;
+respawnDialog = 0;
+respawnOnStart = 0;
+respawnButton = 1; 
+respawnTemplates[] = {"Exile"};
+corpseManagerMode = 0;
+corpseLimit = 20;
+corpseRemovalMinTime = 1800;
+corpseRemovalMaxTime = 3600;
+wreckManagerMode = 0;
+wreckLimit = 2;
+wreckRemovalMinTime = 60;
+wreckRemovalMaxTime = 360;
+scriptedPlayer = 1;
+disabledAI = 1;
+enableItemsDropping = 0;
+briefing = 0;
+debriefing = 0;
+allowFunctionsLog = 1;
+enableDebugConsole = 0; 
+allowFunctionsRecompile = 0;
+showSquadRadar = 0;
+showUAVFeed = 0;
+reviveDelay = 6;
+reviveForceRespawnDelay = 3;
+reviveBleedOutDelay = 120;
+
+showHUD[] = 
+{
+    true,   // Scripted HUD (same as showHUD command)
+    true,   // Vehicle + soldier info
+    true,   // Vehicle radar 
+    true,   // Vehicle compass
+    true,   // Tank direction indicator
+    true,  // Commanding menu
+    false,  // Group Bar
+    true,  // HUD Weapon Cursors
+    true   // Squad Radar
+};
+
+class CfgFunctions
+{
+	#include "ExAdClient\CfgFunctions.cpp"
+};
+
+class CfgHints
+{
+	#include "ExAdClient\CfgHints.cpp"
+};
+
+class CfgNetworkMessages
+{
+	#include "ExAdClient\CfgNetworkMessages.cpp"
+};
+
+class CfgRemoteExec
+{
+	class Functions
+	{
+		mode = 1;
+		jip = 0;
+		
+		class fnc_AdminReq { allowedTargets=2; };
+		class ExileServer_system_network_dispatchIncomingMessage { allowedTargets=2; };
+		class ExAdServer_fnc_clientRequest { allowedTargets=2; };
+	};
+	class Commands 
+	{
+		mode=0; 
+		jip=0; 
+	};
+};
+
+class RscTitles 
+{
+	#include "ExAdClient\RscTitles.cpp"
+	#include "custom\restartWarnings\hpp\RscDisplayRestartWarnings.hpp"
+	#include "VEMFr_client\gui\RscDisplayVEMFrClient.hpp"
+	#include "VEMFr_client\gui\RscDisplayBaseAttack.hpp"
+};
+class CfgSounds
+{
+	#include "custom\dogs\sounds\defines.hpp"
+};
