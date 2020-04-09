@@ -1,0 +1,47 @@
+	///////////////////////////////////////////////////////////////////////////////
+	// Cup
+	///////////////////////////////////////////////////////////////////////////////
+	class CUP_C_TT650_TK_CIV 										{ quality = 1; price = 1000; };
+	class CUP_C_S1203_CIV 											{ quality = 2; price = 2000; };
+	class CUP_C_S1203_Ambulance_CIV 								{ quality = 2; price = 2000; };
+	class CUP_C_Lada_White_CIV 										{ quality = 2; price = 4000; };
+	class CUP_LADA_LM_CIV 											{ quality = 2; price = 4000; };
+	class CUP_C_Lada_GreenTK_CIV 									{ quality = 2; price = 4000; };
+	class Lada_Civ_02 												{ quality = 2; price = 4000; };
+	class CUP_C_Volha_Gray_TKCIV	 								{ quality = 2; price = 4000; };
+	class CUP_C_Volha_Blue_TKCIV	 								{ quality = 2; price = 4000; };
+	class CUP_C_Volha_Limo_TKCIV 									{ quality = 2; price = 4000; };
+	class CUP_C_Skoda_Green_CIV		 								{ quality = 2; price = 4000; };
+	class CUP_C_Skoda_Blue_CIV		 								{ quality = 2; price = 4000; };
+	class CUP_B_UAZ_MG_ACR 											{ quality = 3; price = 5000; };
+	class CUP_B_LR_Ambulance_CZ_W									{ quality = 2; price = 6000; };
+	class CUP_C_Datsun_Tubeframe 									{ quality = 2; price = 6000; };
+	class CUP_C_Datsun_Plain 										{ quality = 2; price = 6000; };
+	class CUP_O_Datsun_PK_Random 									{ quality = 3; price = 7000; };
+	class Ikarus_Govnodav_02 										{ quality = 2; price = 6000; };
+	class Exile_Car_Ikarus_Blue 									{ quality = 2; price = 6000; };
+	class Exile_Car_Ikarus_Red 										{ quality = 2; price = 6000; };
+	class CUP_I_SUV_ION 											{ quality = 2; price = 7000; };
+	class Exile_Car_HMMWV_UNA_Green 								{ quality = 3; price = 7000; };
+	class CUP_I_SUV_Armored_ION 									{ quality = 3; price = 8000; };
+	class Exile_Car_HMMWV_M2_Green 									{ quality = 3; price = 8000; };
+	class Exile_Car_V3S_Covered 									{ quality = 3; price = 9000; };
+	class CUP_C_V3S_Open_TKC 										{ quality = 3; price = 9000; };
+	class CUP_C_V3S_Covered_TK 										{ quality = 3; price = 9000; };
+	class CUP_V3S_Open_NAPA 										{ quality = 3; price = 9000; };
+	class Exile_Car_Ural_Open_Military 								{ quality = 4; price = 10000; };
+	class CUP_C_Ural_Civ_01 										{ quality = 4; price = 10000; };
+	class CUP_C_Ural_Civ_02 										{ quality = 4; price = 10000; };
+	class CUP_C_Ural_Open_Civ_01 									{ quality = 4; price = 10000; };
+	class CUP_C_Ural_Open_Civ_02 									{ quality = 4; price = 10000; };
+	class CUP_O_Ural_RU 											{ quality = 4; price = 10000; };
+	class CUP_O_Ural_Refuel_RU 										{ quality = 5; price = 15000; };
+	class Exile_Chopper_Hummingbird_Green 							{ quality = 3; price = 10000; };
+	class Exile_Chopper_Hummingbird_Civillian_Sunset 				{ quality = 3; price = 10000; };
+	class Exile_Chopper_Hummingbird_Civillian_Speedy 				{ quality = 3; price = 10000; };
+	class CUP_B_MH6M_OBS_USA 										{ quality = 3; price = 10000; };
+	class CUP_I_UH1H_TK_GUE 										{ quality = 4; price = 12000; };
+	class UH1H_Closed_TK 											{ quality = 4; price = 12000; };
+	class CUP_O_Mi17_TK 											{ quality = 4; price = 15000; };
+	class CUP_B_Merlin_HC3_GB 										{ quality = 4; price = 15000; };
+	class CUP_B_UH60M_US 											{ quality = 5; price = 20000; };
