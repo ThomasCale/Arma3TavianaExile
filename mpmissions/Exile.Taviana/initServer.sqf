@@ -1,1 +1,0 @@
-setTimeMultiplier 2;
