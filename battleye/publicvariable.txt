@@ -1,0 +1,4 @@
+//regex
+7 ""
+7 "AH_KICK_OFF_"
+7 "i_am_global_banned"
