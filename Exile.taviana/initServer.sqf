@@ -172,6 +172,7 @@ forEach _vehicles;
 // 12 Simple Objects
 private _invisibleSelections = ["zasleh", "zasleh2", "box_nato_grenades_sign_f", "box_nato_ammoord_sign_f", "box_nato_support_sign_f"];
 private _simpleObjects = [
+
 ];
 
 {
