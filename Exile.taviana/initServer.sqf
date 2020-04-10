@@ -59,8 +59,6 @@ private _vehicles = [
 ["Exile_Sign_Food_Small", [15265.1, 16926.4, 32.2318], [-0.0681718, 0.997674, 0], [0, 0, 1], true],
 ["Exile_Locker", [15286.2, 16889.2, 31.0903], [0.122936, -0.992415, 0], [0, 0, 1], true],
 ["Exile_Locker", [15287.9, 16889.3, 31.0903], [0.122936, -0.992415, 0], [0, 0, 1], true],
-["FoldTable", [15293.5, 16931.6, 31.6745], [0.440051, 0.897973, 0], [0, 0, 1], true],
-["FoldTable", [15291.7, 16932.5, 31.6745], [0.440051, 0.897973, 0], [0, 0, 1], true],
 ["Land_Mil_House_dam_EP1", [15272.8, 16934.3, 36.765], [0.109752, -0.993959, 0], [0, 0, 1], true],
 ["Land_Ammostore2", [15291.9, 16928.7, 33.714], [0.469551, 0.882905, 0], [0, 0, 1], true],
 ["Land_CampingTable_white_F", [15257.7, 16933.9, 32.1605], [-0.998451, -0.0556348, 0], [0, 0, 1], true],
@@ -174,18 +172,6 @@ forEach _vehicles;
 // 12 Simple Objects
 private _invisibleSelections = ["zasleh", "zasleh2", "box_nato_grenades_sign_f", "box_nato_ammoord_sign_f", "box_nato_support_sign_f"];
 private _simpleObjects = [
-["a3\weapons_f_exp\rifles\akm\akm_f.p3d", [15291.2, 16933, 32.0743], [3.87873e-007, 9.09664e-009, 1], [0.0888892, 0.996042, -4.35384e-008]],
-["a3\weapons_f_enoch\shotguns\huntershotgun_01\huntershotgun_01_f.p3d", [15292.1, 16932.3, 32.0803], [-3.34142e-005, -4.36995e-006, 1], [-0.130952, 0.991389, -4.3335e-008]],
-["a3\weapons_f_enoch\shotguns\huntershotgun_01\huntershotgun_01_sawedoff_f.p3d", [15293.3, 16931.8, 32.1103], [-2.02185e-005, -3.8449e-005, 1], [-0.885305, 0.46501, -2.03263e-008]],
-["a3\weapons_f_enoch\longrangerifles\dmr_06\dmr_06_f.p3d", [15293.8, 16931.4, 32.1103], [-7.80488e-008, 2.74594e-008, -1], [-0.450504, -0.892775, 1.06462e-008]],
-["a3\weapons_f_epa\pistols\pistol_heavy_02\pistol_heavy_02_f.p3d", [15294.2, 16931.5, 32.1103], [-1.77756e-005, 9.69623e-006, 1], [0.468024, 0.883716, -2.49323e-007]],
-["a3\weapons_f_exp\pistols\pistol_01\pistol_01_f.p3d", [15291.6, 16932.7, 32.1103], [-4.37114e-008, -4.37114e-008, 1], [-1, 0, -4.37114e-008]],
-["a3\weapons_f_epa\pistols\pistol_heavy_01\pistol_heavy_01_f.p3d", [15292.9, 16931.9, 32.1103], [-3.11569e-005, 1.57604e-005, 1], [0.450379, 0.892837, -3.90272e-008]],
-["a3\supplies_f_heli\slingload\slingload_01_ammo_f.p3d", [8935.46, 12976.3, 11.7605], [0.69701, -0.716202, -0.0350981], [0.03748, -0.012492, 0.999219]],
-["a3\supplies_f_heli\slingload\slingload_01_cargo_f.p3d", [8931.65, 12972.6, 11.8577], [0.478246, 0.878198, -0.00695967], [0.03748, -0.012492, 0.999219]],
-["a3\supplies_f_heli\slingload\slingload_01_fuel_f.p3d", [8929.75, 12966.3, 11.8628], [-0.0862901, 0.996187, 0.0128502], [0.0406009, -0.00937134, 0.999132]],
-["a3\supplies_f_heli\slingload\slingload_01_medevac_f.p3d", [8954.87, 12946.7, 10.5083], [-0.485963, -0.873903, 0.0115758], [0.0686009, -0.024937, 0.997332]],
-["a3\supplies_f_heli\slingload\slingload_01_repair_f.p3d", [8947.73, 12943.6, 10.8499], [0.887141, 0.460986, -0.0217589], [0.0374828, -0.0249807, 0.998985]]
 ];
 
 {
