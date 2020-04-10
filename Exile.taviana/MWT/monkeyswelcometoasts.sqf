@@ -37,6 +37,6 @@ waitUntil{!isNull findDisplay 46 && !isNil 'ExileClientLoadedIn' && getPlayerUID
 
 if ( alive player ) then {
 
-	[format ["<t size='30' font='OrbitronMedium' color='%1'>Hier bist du sicher !!!</t><br /> 
+	[format ["<t size='30' font='OrbitronMedium' color='%1'>You are safe here!</t><br /> 
 	<t size='30' font='PuristaMedium' color='%3'>The trader guards will only shoot zombies./t>",_generaltitlecolor, name player, _generaltextcolor, _servername, worldName], _generaltoastcolor] call ExileClient_gui_toaster_addToast;
 };

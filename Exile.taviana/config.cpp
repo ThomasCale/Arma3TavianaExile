@@ -3400,9 +3400,6 @@ class CfgExileCustomCode
 
 		ExileClient_util_fusRoDah = "myaddon\myfunction.sqf";
 	*/
-	
-	//Base Respawn (Can't use with xSpawn)
-	ExileClient_gui_selectSpawnLocation_show = "Custom\baserespawn.sqf";
 };
 class CfgExileEnvironment
 {
@@ -3515,6 +3512,45 @@ class CfgExileEnvironment
 			daytimeTemperature[] = {-2.00,-1.77,-1.12,-0.10,1.24,2.78,4.40,6.00,7.46,8.65,9.50,9.90,9.90,9.50,8.65,7.46,6.00,4.40,2.78,1.24,-0.10,-1.12,-1.77,-2.00,-2.00};
 		};
 	};
+
+	class Taviana: Altis 
+	{
+		class FireFlies: FireFlies
+		{
+			enable = 1;
+		};
+
+		class Anomalies: Anomalies
+		{
+			enable = 1;
+		};
+
+		class Breathing: Breathing
+		{
+			enable = 1;
+		};
+
+		class Snow: Snow
+		{
+			enable = 1;
+			surfaces[] = {"#nam_snow"};
+		};
+
+		class Radiation: Radiation
+		{
+			enable = 1;
+			contaminatedZones[] = 
+			{
+				
+			};
+		};
+
+		class Temperature: Temperature
+		{
+			daytimeTemperature[] = {-2.00,-1.77,-1.12,-0.10,1.24,2.78,4.40,6.00,7.46,8.65,9.50,9.90,9.90,9.50,8.65,7.46,6.00,4.40,2.78,1.24,-0.10,-1.12,-1.77,-2.00,-2.00};
+		};
+	};
+
 
 	class Tanoa: Altis
 	{
