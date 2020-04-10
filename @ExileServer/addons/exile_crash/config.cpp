@@ -65,7 +65,7 @@ class cfgCrash
         classVehicle = "B_MRAP_01_hmg_F"; /* Fahrzeug-Klasse */	
         classBox = "Box_IND_Ammo_F"; /* Schubladenklasse */
         markerCrashEnabled = 1; /* Markierung auf der Karte anzeigen */
-        markerCrashText = "Heli Crash"; /* Markierungstext */
+        markerCrashText = "Heli Absturz"; /* Markierungstext */
         minrespectKilledBoat = 50; /* Respekt per Bot */
         maxrespectKilledBoat = 100; /* Respekt per Bot */
         alertCrashEnabled = 1; /* Textalarm aktivieren */
