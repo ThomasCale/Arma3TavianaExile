@@ -1,1 +1,1 @@
-hint parseText "Server Infos<br/><br/>Code Lock Vehicles<br/>Base-Spawn<br/>Abschleppen<br/>DMS Missionen<br/>Helli Chrash<br/>No Steal Flag<br/>No Base Zertörungen<br/>Hi Loot";
+hint parseText "Server Info<br/><br/>Surivival Experience<br/>Limited Traders<br/>Vehicles can only be found, cannot be locked<br/>Use a garage! Not like you have keys for that car you found . . .<br/>";

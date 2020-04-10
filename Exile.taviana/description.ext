@@ -62,7 +62,7 @@ showHUD[] =
 {
     true,   // Scripted HUD (same as showHUD command)
     true,   // Vehicle + soldier info
-    true,   // Vehicle radar
+    false,   // Vehicle radar
     true,   // Vehicle compass
     true,   // Tank direction indicator
     false,  // Commanding menu
