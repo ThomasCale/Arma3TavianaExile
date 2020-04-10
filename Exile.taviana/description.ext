@@ -67,7 +67,7 @@ showHUD[] =
     true,   // Tank direction indicator
     false,  // Commanding menu
     false,  // Group Bar
-    false,   // HUD Weapon Cursors
+    true,   // HUD Weapon Cursors
     true   // Vehicle Panel (Required for GPS)
 };
 
