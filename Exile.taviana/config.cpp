@@ -1748,7 +1748,6 @@ class CfgExileAnimals
 };
 class CfgExileArsenal
 {
-	#include "TRADERS\CUPV\ItemListCUPV.hpp"
 	
 	class Exile_Uniform_BambiOverall				{ quality = 1; price = 1; sellPrice = 1; };
 
