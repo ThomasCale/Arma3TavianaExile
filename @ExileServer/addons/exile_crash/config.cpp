@@ -90,9 +90,9 @@ class cfgCrash
 		class weaponSecondaryBots
 		{
 			weapon1[] = {"","",0}; 
-			weapon2[] = {"CUP_launch_RPG18","CUP_RPG18_M",1}; 
-			weapon3[] = {"launch_RPG7_F","RPG7_F",2};
-			weapon4[] = {"launch_RPG7_F","RPG7_F",2};
+			weapon2[] = {}; 
+			weapon3[] = {};
+			weapon4[] = {};
 		};
 		
 		/* Primärwaffe */
@@ -110,12 +110,12 @@ class cfgCrash
 		/* Beliebige Beute in Bots */
 		itemBots[] = {"Exile_Item_EMRE","Exile_Item_Surstromming_Cooked","Exile_Item_PowerDrink"};
 		/* Bot Rangliste */
-		rankBoats[] = {"CORPORAL","SERGEANT","LIEUTENANT","CAPTAIN","MAJOR","COLONEL"};
+		rankBots[] = {"CORPORAL","SERGEANT","LIEUTENANT","CAPTAIN","MAJOR","COLONEL"};
 		/* Zufällige Liste der Botsteifigkeiten. Von 0 bis 1 gebildet, beträgt beispielsweise 50% 0,5 */
 		abilityBots[] = {0.5,0.6,0.7,0.8,0.9};
 		
 		/* Mailbox-Einstellungen */
-		/* Waffe in der Box */
+		/* Weapons in the box */
 		class weaponAmmo
 		{
 			weapon1[] = {"arifle_MX_SW_F","100Rnd_65x39_caseless_mag_Tracer",3}; 
@@ -123,13 +123,13 @@ class cfgCrash
 			weapon3[] = {"arifle_MXM_F","30Rnd_65x39_caseless_mag",3};
 			weapon4[] = {"LMG_Mk200_F","200Rnd_65x39_cased_Box",3};
 		};
-		/* Primärwaffe */
+		/* Weapons */
 		weaponBoxPrimary[] = {"weapon1","weapon2","weapon3","weapon4"};
-		/* Liste der Optiken in einer Box */
+		/* List of optics in box */
 		rifleOptics[] = {"optic_ERCO_khk_F","optic_MRCO","optic_Hamr","optic_ERCO_khk_F","optic_MRCO","optic_Hamr"};
-		/* Liste der Rucksäcke in einer Box */
+		/* List of backpacks in a box */
 		backpacks[] = {"B_Kitbag_rgr","B_Kitbag_mcamo","B_TacticalPack_mcamo"};
-		/* Beuteliste in einer Kiste */
+		/* Equipment in box */
 		itemmy[] = {"muzzle_snds_L","muzzle_snds_H_SW","muzzle_snds_M","muzzle_snds_L","muzzle_snds_M","U_OG_Guerilla3_2","U_O_CombatUniform_ocamo","Exile_Item_EMRE","Exile_Item_Surstromming_Cooked","Exile_Item_PowerDrink","Exile_Item_PlasticBottleCoffee","Exile_Item_Vishpirin","Exile_Item_Matches","Exile_Item_DuctTape","Exile_Item_CanOpener","Exile_Item_Bandage","Exile_Item_InstaDoc"};	
     };
 };
