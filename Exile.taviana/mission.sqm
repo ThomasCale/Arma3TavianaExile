@@ -1,21 +1,21 @@
 version=53;
 class EditorData
 {
-	moveGridStep=1;
+	moveGridStep=0.099999994;
 	angleGridStep=0.2617994;
 	scaleGridStep=1;
 	autoGroupingDist=10;
-	toggles=1;
+	toggles=9;
 	class ItemIDProvider
 	{
-		nextID=1026;
+		nextID=1463;
 	};
 	class Camera
 	{
-		pos[]={15234.777,39.890247,16894.813};
-		dir[]={0.79051089,-0.30123064,0.53326964};
-		up[]={0.24972653,0.9535498,0.16846195};
-		aside[]={0.55924433,5.6345016e-008,-0.82901686};
+		pos[]={5250.939,112.69064,6143.6982};
+		dir[]={0,-0.70710683,0.70710683};
+		up[]={0,0.70710677,0.70710677};
+		aside[]={0.99999994,0,-0};
 	};
 };
 binarizationWanted=0;
@@ -2168,7 +2168,7 @@ class Mission
 		class Item17
 		{
 			dataType="Trigger";
-			position[]={15276.194,31.090347,16917.797};
+			position[]={15279.346,31.090347,16914.379};
 			angle=0.44081768;
 			class Attributes
 			{
@@ -2203,6 +2203,69 @@ class Mission
 		};
 		class Item19
 		{
+			dataType="Marker";
+			position[]={12023.979,114.11487,15587.084};
+			name="ConcreteMixerZoneAlikampos";
+			text="Concrete Mixer";
+			markerType="ELLIPSE";
+			type="ExileConcreteMixerZone";
+			colorName="ColorBlack";
+			fillName="Border";
+			drawBorder=1;
+			id=1014;
+		};
+		class Item20
+		{
+			dataType="Marker";
+			position[]={12023.994,114.11487,15587.056};
+			name="ConcreteMixerZoneAlikamposIcon";
+			type="ExileConcreteMixerZoneIcon";
+			id=1015;
+		};
+		class Item21
+		{
+			dataType="Marker";
+			position[]={1813.4414,21.088333,17111.227};
+			name="ConcreteMixerZoneAthira";
+			text="Concrete Mixer";
+			markerType="ELLIPSE";
+			type="ExileConcreteMixerZone";
+			colorName="ColorBlack";
+			fillName="Border";
+			drawBorder=1;
+			id=1016;
+		};
+		class Item22
+		{
+			dataType="Marker";
+			position[]={1813.4326,21.088333,17111.234};
+			name="ConcreteMixerZoneAthiraIcon";
+			type="ExileConcreteMixerZoneIcon";
+			id=1017;
+		};
+		class Item23
+		{
+			dataType="Marker";
+			position[]={15524.783,15.149643,9531.7529};
+			name="ConcreteMixerZoneCharkia";
+			text="Concrete Mixer";
+			markerType="ELLIPSE";
+			type="ExileConcreteMixerZone";
+			colorName="ColorBlack";
+			fillName="Border";
+			drawBorder=1;
+			id=1018;
+		};
+		class Item24
+		{
+			dataType="Marker";
+			position[]={15524.773,15.149643,9531.7617};
+			name="ConcreteMixerZoneCharkiaIcon";
+			type="ExileConcreteMixerZoneIcon";
+			id=1019;
+		};
+		class Item25
+		{
 			dataType="Trigger";
 			position[]={5198.6299,37.414104,6187.063};
 			angle=0.44081768;
@@ -2218,69 +2281,6 @@ class Mission
 			};
 			id=1013;
 			type="EmptyDetectorArea10x10";
-		};
-		class Item20
-		{
-			dataType="Marker";
-			position[]={12023.979,114.11487,15587.084};
-			name="ConcreteMixerZoneAlikampos";
-			text="Concrete Mixer";
-			markerType="ELLIPSE";
-			type="ExileConcreteMixerZone";
-			colorName="ColorBlack";
-			fillName="Border";
-			drawBorder=1;
-			id=1014;
-		};
-		class Item21
-		{
-			dataType="Marker";
-			position[]={12023.994,114.11487,15587.056};
-			name="ConcreteMixerZoneAlikamposIcon";
-			type="ExileConcreteMixerZoneIcon";
-			id=1015;
-		};
-		class Item22
-		{
-			dataType="Marker";
-			position[]={1813.4414,21.088333,17111.227};
-			name="ConcreteMixerZoneAthira";
-			text="Concrete Mixer";
-			markerType="ELLIPSE";
-			type="ExileConcreteMixerZone";
-			colorName="ColorBlack";
-			fillName="Border";
-			drawBorder=1;
-			id=1016;
-		};
-		class Item23
-		{
-			dataType="Marker";
-			position[]={1813.4326,21.088333,17111.234};
-			name="ConcreteMixerZoneAthiraIcon";
-			type="ExileConcreteMixerZoneIcon";
-			id=1017;
-		};
-		class Item24
-		{
-			dataType="Marker";
-			position[]={15524.783,15.149643,9531.7529};
-			name="ConcreteMixerZoneCharkia";
-			text="Concrete Mixer";
-			markerType="ELLIPSE";
-			type="ExileConcreteMixerZone";
-			colorName="ColorBlack";
-			fillName="Border";
-			drawBorder=1;
-			id=1018;
-		};
-		class Item25
-		{
-			dataType="Marker";
-			position[]={15524.773,15.149643,9531.7617};
-			name="ConcreteMixerZoneCharkiaIcon";
-			type="ExileConcreteMixerZoneIcon";
-			id=1019;
 		};
 	};
 };
