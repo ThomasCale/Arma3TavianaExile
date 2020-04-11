@@ -8,14 +8,14 @@ class EditorData
 	toggles=9;
 	class ItemIDProvider
 	{
-		nextID=1526;
+		nextID=1528;
 	};
 	class Camera
 	{
-		pos[]={8917.1025,20.687651,12946.271};
-		dir[]={0.71993279,-0.4308435,0.54416043};
-		up[]={0.34371775,0.90242201,0.25979811};
-		aside[]={0.60299277,3.8620783e-008,-0.79776764};
+		pos[]={8537.3115,879.44202,12414.912};
+		dir[]={0.066373438,-0.54322749,0.83698893};
+		up[]={0.042944953,0.83957845,0.54153925};
+		aside[]={0.99689299,3.7885911e-008,-0.079053208};
 	};
 };
 binarizationWanted=0;
@@ -38,13 +38,14 @@ addons[]=
 	"Colt1911",
 	"A3_Weapons_F_Mark",
 	"A3_Characters_F_Orange_Vests",
-	"Weapons_AK"
+	"Weapons_AK",
+	"A3_Modules_F_Curator_Curator"
 };
 class AddonsMetaData
 {
 	class List
 	{
-		items=14;
+		items=15;
 		class Item0
 		{
 			className="exile_client";
@@ -133,6 +134,13 @@ class AddonsMetaData
 			className="Weapons_AK";
 			name="Weapons_AK";
 		};
+		class Item14
+		{
+			className="A3_Modules_F_Curator";
+			name="Arma 3 Zeus Update - Scripted Modules";
+			author="Bohemia Interactive";
+			url="https://www.arma3.com";
+		};
 	};
 };
 randomSeed=2427911;
@@ -162,7 +170,7 @@ class Mission
 	};
 	class Entities
 	{
-		items=45;
+		items=46;
 		class Item0
 		{
 			dataType="Marker";
@@ -2464,7 +2472,7 @@ class Mission
 						angles[]={0,1.9298803,0};
 					};
 					side="Independent";
-					flags=7;
+					flags=3;
 					class Attributes
 					{
 						init="call{this addeventhandler [""fired"", {(_this select 0) setvehicleammo 1}]; this allowDamage false;}";
@@ -2504,7 +2512,7 @@ class Mission
 					};
 					id=1464;
 					type="C_man_polo_1_F";
-					atlOffset=0.11399841;
+					atlOffset=7.0200005;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -2554,7 +2562,7 @@ class Mission
 				init="call{this addeventhandler [""fired"", {(_this select 0) setvehicleammo 1}]; this allowDamage false;}";
 			};
 			id=1485;
-			atlOffset=0.11399841;
+			atlOffset=7.0200005;
 		};
 		class Item28
 		{
@@ -3074,7 +3082,7 @@ class Mission
 						angles[]={0,1.9016061,0};
 					};
 					side="Independent";
-					flags=7;
+					flags=3;
 					class Attributes
 					{
 						init="call{this addeventhandler [""fired"", {(_this select 0) setvehicleammo 1}]; this allowDamage false;}";
@@ -3116,7 +3124,7 @@ class Mission
 					};
 					id=1466;
 					type="C_man_polo_3_F";
-					atlOffset=0.0082054138;
+					atlOffset=3.9329987;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -3166,7 +3174,7 @@ class Mission
 				init="call{this addeventhandler [""fired"", {(_this select 0) setvehicleammo 1}]; this allowDamage false;}";
 			};
 			id=1490;
-			atlOffset=0.0082054138;
+			atlOffset=3.9329987;
 		};
 		class Item33
 		{
@@ -3183,14 +3191,14 @@ class Mission
 						position[]={15237.4,34.681187,16925.82};
 					};
 					side="Independent";
-					flags=7;
+					flags=3;
 					class Attributes
 					{
 						init="call{this addeventhandler [""fired"", {(_this select 0) setvehicleammo 1}]; this allowDamage false;}";
 					};
 					id=1478;
 					type="O_G_Soldier_A_F";
-					atlOffset=0.020320892;
+					atlOffset=2.802002;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -3240,7 +3248,7 @@ class Mission
 				init="call{this addeventhandler [""fired"", {(_this select 0) setvehicleammo 1}]; this allowDamage false;}";
 			};
 			id=1491;
-			atlOffset=0.020320892;
+			atlOffset=2.802002;
 		};
 		class Item34
 		{
@@ -3265,7 +3273,7 @@ class Mission
 					};
 					id=1477;
 					type="O_G_Soldier_AR_F";
-					atlOffset=2.0092812;
+					atlOffset=2.9660015;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -3315,7 +3323,7 @@ class Mission
 				init="call{this addeventhandler [""fired"", {(_this select 0) setvehicleammo 1}]; this allowDamage false;}";
 			};
 			id=1492;
-			atlOffset=2.0092812;
+			atlOffset=2.9660015;
 		};
 		class Item35
 		{
@@ -3332,7 +3340,7 @@ class Mission
 						position[]={15269.627,45.628784,16896};
 					};
 					side="Independent";
-					flags=7;
+					flags=3;
 					class Attributes
 					{
 						init="call{this addeventhandler [""fired"", {(_this select 0) setvehicleammo 1}]; this allowDamage false;}";
@@ -3401,7 +3409,7 @@ class Mission
 					};
 					id=1471;
 					type="C_man_polo_1_F";
-					atlOffset=0.03943634;
+					atlOffset=14.536999;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -3451,7 +3459,7 @@ class Mission
 				init="call{this addeventhandler [""fired"", {(_this select 0) setvehicleammo 1}]; this allowDamage false;}";
 			};
 			id=1493;
-			atlOffset=0.03943634;
+			atlOffset=14.536999;
 		};
 		class Item36
 		{
@@ -3921,7 +3929,7 @@ class Mission
 						position[]={15233.84,34.955593,16924.783};
 					};
 					side="Independent";
-					flags=7;
+					flags=3;
 					class Attributes
 					{
 						init="call{this addeventhandler [""fired"", {(_this select 0) setvehicleammo 1}]; this allowDamage false;}";
@@ -3968,7 +3976,7 @@ class Mission
 					};
 					id=1476;
 					type="C_man_polo_6_F";
-					atlOffset=0.083282471;
+					atlOffset=2.8650017;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -4018,7 +4026,7 @@ class Mission
 				init="call{this addeventhandler [""fired"", {(_this select 0) setvehicleammo 1}]; this allowDamage false;}";
 			};
 			id=1498;
-			atlOffset=0.083282471;
+			atlOffset=2.8650017;
 		};
 		class Item41
 		{
@@ -4182,14 +4190,14 @@ class Mission
 						position[]={8930.5449,14.781719,12960.315};
 					};
 					side="Independent";
-					flags=7;
+					flags=3;
 					class Attributes
 					{
 						init="call{this addeventhandler [""fired"", {(_this select 0) setvehicleammo 1}]; this allowDamage false;}";
 					};
 					id=1521;
 					type="B_soldier_AR_F";
-					atlOffset=0.20393467;
+					atlOffset=4.3699999;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -4238,7 +4246,7 @@ class Mission
 			{
 			};
 			id=1522;
-			atlOffset=0.20393467;
+			atlOffset=4.3699999;
 		};
 		class Item44
 		{
@@ -4255,14 +4263,14 @@ class Mission
 						position[]={8927.4619,14.828458,12958.764};
 					};
 					side="Independent";
-					flags=7;
+					flags=3;
 					class Attributes
 					{
 						init="call{this addeventhandler [""fired"", {(_this select 0) setvehicleammo 1}]; this allowDamage false;}";
 					};
 					id=1524;
 					type="B_soldier_AR_F";
-					atlOffset=0.046676636;
+					atlOffset=4.3060007;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -4311,7 +4319,98 @@ class Mission
 			{
 			};
 			id=1523;
-			atlOffset=0.046676636;
+			atlOffset=4.3060007;
+		};
+		class Item45
+		{
+			dataType="Logic";
+			class PositionInfo
+			{
+				position[]={25553.051,-0.089709885,37.524414};
+			};
+			id=1526;
+			type="ModuleCurator_F";
+			atlOffset=45.355408;
+			class CustomAttributes
+			{
+				class Attribute0
+				{
+					property="ModuleCurator_F_Owner";
+					expression="_this setVariable ['Owner',_value,true];";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"STRING"
+								};
+							};
+							value="#AdminLogged";
+						};
+					};
+				};
+				class Attribute1
+				{
+					property="ModuleCurator_F_Forced";
+					expression="_this setVariable ['Forced',_value,true];";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"SCALAR"
+								};
+							};
+							value=0;
+						};
+					};
+				};
+				class Attribute2
+				{
+					property="ModuleCurator_F_Name";
+					expression="_this setVariable ['Name',_value,true];";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"STRING"
+								};
+							};
+							value="";
+						};
+					};
+				};
+				class Attribute3
+				{
+					property="ModuleCurator_F_Addons";
+					expression="_this setVariable ['Addons',_value,true];";
+					class Value
+					{
+						class data
+						{
+							class type
+							{
+								type[]=
+								{
+									"SCALAR"
+								};
+							};
+							value=3;
+						};
+					};
+				};
+				nAttributes=4;
+			};
 		};
 	};
 };
