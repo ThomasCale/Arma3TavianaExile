@@ -1,0 +1,74 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"valve"
+		{
+			"Steam"
+			{
+				"StartMenuShortcutCheck"		"1"
+				"DesktopShortcutCheck"		"1"
+				"SteamDefaultDialog"		"#app_store"
+				"SSAVersion"		"3"
+				"SurveyDate"		"2019-06-10"
+			}
+		}
+	}
+	"Web"
+	{
+		"WebFav0_URL"		"https://www.google.com/"
+		"WebFav0_Name"		"Google"
+		"WebFav1_URL"		"http://www.youtube.com/"
+		"WebFav1_Name"		"YouTube"
+		"WebFav2_URL"		"http://www.twitter.com/"
+		"WebFav2_Name"		"Twitter"
+		"WebFav3_URL"		"http://www.facebook.com/"
+		"WebFav3_Name"		"Facebook"
+		"WebFav4_URL"		"http://www.reddit.com/"
+		"WebFav4_Name"		"Reddit"
+	}
+	"controller_config"
+	{
+		"359320"
+		{
+			"usetime"		"645.8953857421875"
+		}
+		"413090"
+		{
+			"usetime"		"0"
+		}
+		"413080"
+		{
+			"usetime"		"0"
+		}
+		"443510"
+		{
+			"usetime"		"0"
+		}
+		"212680"
+		{
+			"usetime"		"20.783203125"
+		}
+		"489830"
+		{
+			"usetime"		"2277.0888671875"
+		}
+		"262060"
+		{
+			"usetime"		"3276.59375"
+		}
+	}
+	"JSClientStorage"
+	{
+		"spotlight.review.594570"
+		{
+			"rgPromptDismissals"		"3"
+			"bWasAskedToRevise"		"0"
+		}
+		"spotlight.review.221100"
+		{
+			"rgPromptDismissals"		"3"
+			"bWasAskedToRevise"		"0"
+		}
+	}
+}

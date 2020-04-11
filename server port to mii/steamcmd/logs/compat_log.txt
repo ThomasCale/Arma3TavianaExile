@@ -1,0 +1,13 @@
+
+
+[2020-01-25 22:19:13] Processing tool list from AppID 891390
+[2020-01-25 22:19:13] Registering tool steamlinuxruntime, AppID 1070560
+[2020-01-25 22:19:13] Ignoring tool steamlinuxruntime as it's for a different target platform linux.
+[2020-01-25 22:19:13] Registering tool proton_411, AppID 1113280
+[2020-01-25 22:19:13] Ignoring tool proton_411 as it's for a different target platform linux.
+[2020-01-25 22:19:13] Registering tool proton_42, AppID 1054830
+[2020-01-25 22:19:13] Ignoring tool proton_42 as it's for a different target platform linux.
+[2020-01-25 22:19:13] Registering tool proton_316, AppID 961940
+[2020-01-25 22:19:13] Ignoring tool proton_316 as it's for a different target platform linux.
+[2020-01-25 22:19:13] Registering tool proton_37, AppID 858280
+[2020-01-25 22:19:13] Ignoring tool proton_37 as it's for a different target platform linux.

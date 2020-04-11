@@ -1,0 +1,16 @@
+
+
+[2020-01-25 22:19:04] [U:1:112750929] [AppID 7] Init cache request complete
+[2020-01-25 22:19:04] Starting sync job
+[2020-01-25 22:19:04] [AppID 7] Starting sync (init,)
+[2020-01-25 22:19:10] Starting sync job
+[2020-01-25 22:19:10] [AppID 7] Starting sync (down,)
+[2020-01-25 22:19:11] [AppID 7] Need to download file serverbrowser_hist.vdf
+[2020-01-25 22:19:11] [AppID 7] Need to download file sharedconfig.vdf
+[2020-01-25 22:19:11] [AppID 7] HTTP download for file 'serverbrowser_hist.vdf' from host 'steamcloudsyd2.blob.core.windows.net' beginning. . .
+[2020-01-25 22:19:12] [AppID 7] HTTP download for file 'serverbrowser_hist.vdf' from host 'steamcloudsyd2.blob.core.windows.net' - Success.
+[2020-01-25 22:19:12] [AppID 7] Download OK for file serverbrowser_hist.vdf
+[2020-01-25 22:19:12] [AppID 7] HTTP download for file 'sharedconfig.vdf' from host 'steamcloud-sydney.storage.googleapis.com' beginning. . .
+[2020-01-25 22:19:13] [AppID 7] HTTP download for file 'sharedconfig.vdf' from host 'steamcloud-sydney.storage.googleapis.com' - Success.
+[2020-01-25 22:19:13] [AppID 7] Download OK for file sharedconfig.vdf
+[2020-01-25 22:19:13] [AppID 7] Download complete, result OK

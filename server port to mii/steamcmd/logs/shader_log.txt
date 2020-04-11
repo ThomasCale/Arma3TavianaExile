@@ -1,0 +1,27 @@
+
+
+[2020-01-25 22:16:56] Attempting to find current bucket; temporary dir: C:\steamcmd\shader_cache_temp_dir_gl_64
+[2020-01-25 22:16:56] Creating shader cache directory: C:\steamcmd\shader_cache_temp_dir_gl_64
+[2020-01-25 22:16:57] Unknown shader cache type, ignoring.
+[2020-01-25 22:16:57] Attempting to find current bucket; temporary dir: C:\steamcmd\shader_cache_temp_dir_gl_32
+[2020-01-25 22:16:57] Creating shader cache directory: C:\steamcmd\shader_cache_temp_dir_gl_32
+[2020-01-25 22:16:57] Unknown shader cache type, ignoring.
+[2020-01-25 22:16:58] Found 0 current buckets:
+
+
+[2020-01-25 22:18:15] Attempting to find current bucket; temporary dir: C:\steamcmd\shader_cache_temp_dir_gl_64
+[2020-01-25 22:18:15] Creating shader cache directory: C:\steamcmd\shader_cache_temp_dir_gl_64
+[2020-01-25 22:18:15] Unknown shader cache type, ignoring.
+[2020-01-25 22:18:16] Attempting to find current bucket; temporary dir: C:\steamcmd\shader_cache_temp_dir_gl_32
+[2020-01-25 22:18:16] Creating shader cache directory: C:\steamcmd\shader_cache_temp_dir_gl_32
+[2020-01-25 22:18:16] Unknown shader cache type, ignoring.
+[2020-01-25 22:18:16] Found 0 current buckets:
+
+
+[2020-04-11 17:04:16] Attempting to find current bucket; temporary dir: C:\steamcmd\shader_cache_temp_dir_gl_64
+[2020-04-11 17:04:16] Creating shader cache directory: C:\steamcmd\shader_cache_temp_dir_gl_64
+[2020-04-11 17:04:16] Unknown shader cache type, ignoring.
+[2020-04-11 17:04:16] Attempting to find current bucket; temporary dir: C:\steamcmd\shader_cache_temp_dir_gl_32
+[2020-04-11 17:04:16] Creating shader cache directory: C:\steamcmd\shader_cache_temp_dir_gl_32
+[2020-04-11 17:04:16] Unknown shader cache type, ignoring.
+[2020-04-11 17:04:17] Found 0 current buckets:

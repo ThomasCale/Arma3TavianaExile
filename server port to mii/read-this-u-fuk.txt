@@ -1,0 +1,22 @@
+1. Clear room on your SSD and uninstall xampp entirely.
+2. Delete anything to do with steamcmd or Arma server on your root C: drive, the below paths need to not exist for optimum performance
+3. Copy the folder called Arma3TavianaExile to your C: drive (C:\Arma3TavianaExile)
+4. Copy the folder called steamcmd  to your C: drive (C:\steamcmd)
+5. Run C:\Arma3TavianaExile\serverupdate.bat
+6. Once that's done, install noodle-sql following the guide.pdf (click on mysql setup in PDF, it will take you to noodle-sql setup)
+Once this is done, drag all mods required and name them EXACTLY as below:
+- @Arma3Taviana
+- @CBA_A3
+- @CUPterrainscore
+- @CUPTerrainsmaps
+- @CUPTerrainsmaps2
+- @ExileMod
+- @ryanzombies
+7. At step 13, create an account with the following details with FULL permissions:
+	- Username: exile
+	- Host: <All Hosts (%)>
+	- Role: DB Admin
+	- Password: jomjijqgh
+8. At step 33, substitute SQL workbench for Navicat, and connect/create the database 'exile' as normal, using the exile.sql file I have supplied
+9. CONFIGURE YOUR DAMN FIREWALL FFS (instructions at end of mysql setup in guide.pdf)
+10. Ignore everything after firewall setup

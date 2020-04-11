@@ -1,0 +1,4 @@
+
+
+[2020-01-25 22:19:04] Failed to get ParentalSettings\Settings from config file for account ID 112750929
+[2020-01-25 22:19:05] Got parental settings for account ID 112750929

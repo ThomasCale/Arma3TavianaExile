@@ -1,0 +1,51 @@
+
+
+[2020-01-25 22:16:56] Log session started
+[2020-01-25 22:16:56] [0,0] SetSteamID( [U:1:0] )
+[2020-01-25 22:16:56] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-01-25 22:16:56] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-01-25 22:16:56] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-01-25 22:16:57] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [::]:80 ([::]:80)) - FAILURE (Invalid)
+[2020-01-25 22:16:57] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
+[2020-01-25 22:18:11] [0,0] ResetVoiceRecording() (was recording: 0) (last get voice time: 1579951091 seconds ago)
+[2020-01-25 22:18:11] [0,0] Log session ended
+
+
+[2020-01-25 22:18:15] Log session started
+[2020-01-25 22:18:15] [0,0] SetSteamID( [U:1:0] )
+[2020-01-25 22:18:15] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-01-25 22:18:15] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-01-25 22:18:15] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-01-25 22:18:15] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [::]:80 ([::]:80)) - FAILURE (Invalid)
+[2020-01-25 22:18:15] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
+[2020-01-25 22:19:00] [0,0] SetSteamID( [U:1:0] )
+[2020-01-25 22:19:00] [0,0] SetSteamID( [U:1:0] )
+[2020-01-25 22:19:00] [0,0] Server says 0% of connections should be websockets, we rolled 1 - using UDP as default.
+[2020-01-25 22:19:00] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api for launcher type 'steamcmd'. . .
+[2020-01-25 22:19:01] CCMInterface::YieldingConnect -- got 100 CMs and 100 WebSocket CMS from ISteamDirectory/GetCMList.
+[2020-01-25 22:19:01] [1,2] Connect() starting connection (eNetQOSLevelHigh, 103.10.125.165:27017, UDP)
+[2020-01-25 22:19:02] [1,2] ConnectionCompleted() (103.10.125.165:27019, UDP)
+[2020-01-25 22:19:02] [1,2] RecvMsgClientLogOnResponse() : [I:0:0] 'Account logon denied, need two-factor code'
+[2020-01-25 22:19:02] [1,2] AsyncDisconnect()
+[2020-01-25 22:19:02] [0,0] ConnectionDisconnected('Disconnected By Remote Host') : 'Account logon denied, need two-factor code' (103.10.125.165:27019, UDP)
+[2020-01-25 22:19:02] [0,0] ConnectionDisconnected() not auto reconnecting due to eResultLogonSession specifies no reconnect
+[2020-01-25 22:19:02] [0,0] SetSteamID( [U:1:0] )
+[2020-01-25 22:19:02] [0,0] Server says 0% of connections should be websockets, we rolled 9 - using UDP as default.
+[2020-01-25 22:19:02] [1,10] Connect() starting connection (eNetQOSLevelHigh, 103.10.125.165:27017, UDP)
+[2020-01-25 22:19:03] [1,10] ConnectionCompleted() (103.10.125.165:27019, UDP)
+[2020-01-25 22:19:04] [1,10] RecvMsgClientLogOnResponse() : [U:1:112750929] 'OK'
+[2020-01-25 22:22:57] [3,10] ResetVoiceRecording() (was recording: 0) (last get voice time: 1579951377 seconds ago)
+[2020-01-25 22:22:57] [3,10] LogOff()
+[2020-01-25 22:22:57] [2,10] AsyncDisconnect()
+[2020-01-25 22:22:57] [2,10] Log session ended
+
+
+[2020-04-11 17:04:16] Log session started
+[2020-04-11 17:04:16] [0,0] SetSteamID( [U:1:0] )
+[2020-04-11 17:04:16] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-04-11 17:04:16] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-04-11 17:04:16] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2020-04-11 17:04:16] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [::]:80 ([::]:80)) - FAILURE (Invalid)
+[2020-04-11 17:04:16] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com) - FAILED, no addresses resolved
+[2020-04-11 17:04:32] [0,0] ResetVoiceRecording() (was recording: 0) (last get voice time: 1586588672 seconds ago)
+[2020-04-11 17:04:32] [0,0] Log session ended

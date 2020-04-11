@@ -1,0 +1,40 @@
+
+
+[2020-01-25 22:16:56] Failed to read store 'install' from 'C:\steamcmd\config\config.vdf.tmp'
+[2020-01-25 22:16:56] Failed to read store 'install' from 'C:\steamcmd\config\config.vdf.tmp'
+[2020-01-25 22:16:57] Flushed store 'install' to 'C:\steamcmd\config\config.vdf'
+[2020-01-25 22:16:58] Flushed store 'install' to 'C:\steamcmd\config\config.vdf'
+[2020-01-25 22:18:11] Flushed store 'install' to 'C:\steamcmd\config\config.vdf'
+
+
+[2020-01-25 22:18:15] Loaded store 'install' from 'C:\steamcmd\config\config.vdf' successfully
+[2020-01-25 22:18:15] Loaded store 'install' from 'C:\steamcmd\config\config.vdf' successfully
+[2020-01-25 22:19:00] Loaded store 'install' from 'C:\steamcmd\config\config.vdf' successfully
+[2020-01-25 22:19:01] Flushed store 'install' to 'C:\steamcmd\config\config.vdf'
+[2020-01-25 22:19:04] Failed to read store 'userlocal' from 'C:\steamcmd\userdata\112750929\config\localconfig.vdf.tmp'
+[2020-01-25 22:19:05] Flushed store 'install' to 'C:\steamcmd\config\config.vdf'
+[2020-01-25 22:19:05] Flushed store 'userlocal' to 'C:\steamcmd\userdata\112750929\config\localconfig.vdf'
+[2020-01-25 22:19:05] Flushed store 'userlocal' to 'C:\steamcmd\userdata\112750929\config\localconfig.vdf'
+[2020-01-25 22:19:06] Flushed store 'userlocal' to 'C:\steamcmd\userdata\112750929\config\localconfig.vdf'
+[2020-01-25 22:19:06] Flushed store 'install' to 'C:\steamcmd\config\config.vdf'
+[2020-01-25 22:19:10] Flushed store 'userlocal' to 'C:\steamcmd\userdata\112750929\config\localconfig.vdf'
+[2020-01-25 22:19:12] Flushed store 'userlocal' to 'C:\steamcmd\userdata\112750929\config\localconfig.vdf'
+[2020-01-25 22:19:14] Flushed store 'userlocal' to 'C:\steamcmd\userdata\112750929\config\localconfig.vdf'
+[2020-01-25 22:20:00] Flushed store 'userlocal' to 'C:\steamcmd\userdata\112750929\config\localconfig.vdf'
+[2020-01-25 22:20:01] Flushed store 'install' to 'C:\steamcmd\config\config.vdf'
+[2020-01-25 22:20:02] Flushed store 'install' to 'C:\steamcmd\config\config.vdf'
+[2020-01-25 22:20:02] Flushed store 'userlocal' to 'C:\steamcmd\userdata\112750929\config\localconfig.vdf'
+[2020-01-25 22:20:03] Flushed store 'userlocal' to 'C:\steamcmd\userdata\112750929\config\localconfig.vdf'
+[2020-01-25 22:20:05] Flushed store 'userlocal' to 'C:\steamcmd\userdata\112750929\config\localconfig.vdf'
+[2020-01-25 22:20:07] Flushed store 'userlocal' to 'C:\steamcmd\userdata\112750929\config\localconfig.vdf'
+[2020-01-25 22:20:32] Flushed store 'install' to 'C:\steamcmd\config\config.vdf'
+[2020-01-25 22:21:02] Flushed store 'install' to 'C:\steamcmd\config\config.vdf'
+[2020-01-25 22:21:27] Flushed store 'userlocal' to 'C:\steamcmd\userdata\112750929\config\localconfig.vdf'
+[2020-01-25 22:21:32] Flushed store 'install' to 'C:\steamcmd\config\config.vdf'
+[2020-01-25 22:22:02] Flushed store 'install' to 'C:\steamcmd\config\config.vdf'
+[2020-01-25 22:22:57] Flushed store 'install' to 'C:\steamcmd\config\config.vdf'
+
+
+[2020-04-11 17:04:16] Loaded store 'install' from 'C:\steamcmd\config\config.vdf' successfully
+[2020-04-11 17:04:16] Loaded store 'install' from 'C:\steamcmd\config\config.vdf' successfully
+[2020-04-11 17:04:32] Flushed store 'install' to 'C:\steamcmd\config\config.vdf'
