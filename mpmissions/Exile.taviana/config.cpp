@@ -3399,6 +3399,11 @@ class CfgExileCustomCode
 
 		ExileClient_util_fusRoDah = "myaddon\myfunction.sqf";
 	*/
+		ExileClient_object_item_consume = "Custom\ExileClient_object_item_consume.sqf";
+		ExileServer_object_player_database_update = "Custom\ExileServer_object_player_database_update.sqf";
+		ExileServer_system_network_event_onPlayerConnected = "Custom\ExileServer_system_network_event_onPlayerConnected.sqf";
+		ExileServer_object_player_database_load = "Custom\ExileServer_object_player_database_load.sqf";
+		ExileServer_object_player_event_onMpKilled = "Custom\ExileServer_object_player_event_onMpKilled.sqf";
 };
 class CfgExileEnvironment
 {
@@ -3419,7 +3424,7 @@ class CfgExileEnvironment
 		class Anomalies
 		{
 			// 1 = enabled, 0 = disabled
-			enable = 1;
+			enable = 0;
 
 			// At this hour anomalies begin to spawn
 			startHour = 19;
@@ -3521,7 +3526,7 @@ class CfgExileEnvironment
 
 		class Anomalies: Anomalies
 		{
-			enable = 1;
+			enable = 0;
 		};
 
 		class Breathing: Breathing
