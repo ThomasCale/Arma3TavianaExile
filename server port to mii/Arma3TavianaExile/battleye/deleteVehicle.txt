@@ -1,2 +1,0 @@
-//regex
-7 "" !"NVG_Target" !"Shot" !"Exile_Unit_Player" !"_Preview"
