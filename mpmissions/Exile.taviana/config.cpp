@@ -3827,7 +3827,7 @@ class CfgInteractionMenus
 			};
 
 			// Locks a vehicle
-			class Lock: ExileAbstractAction
+			/* class Lock: ExileAbstractAction
 			{
 				title = "Lock";
 				condition = "((locked ExileClientInteractionObject) isEqualTo 0) && ((locked ExileClientInteractionObject) != 1)";
@@ -3840,7 +3840,7 @@ class CfgInteractionMenus
 				title = "Unlock";
 				condition = "((locked ExileClientInteractionObject) isEqualTo 2) && ((locked ExileClientInteractionObject) != 1)";
 				action = "false spawn ExileClient_object_lock_toggle";
-			};
+			}; */
 
 			// Repairs a vehicle to 100%. Requires Duckttape
 			class Repair: ExileAbstractAction
@@ -3851,12 +3851,12 @@ class CfgInteractionMenus
 			};
 
 			// Hot-wires a vehicle
-			class Hotwire: ExileAbstractAction
+			/* class Hotwire: ExileAbstractAction
 			{
 				title = "Hotwire";
 				condition = "((locked ExileClientInteractionObject) isEqualTo 2) && ((locked ExileClientInteractionObject) != 1)";
 				action = "['HotwireVehicle', _this select 0] call ExileClient_action_execute";
-			};
+			}; */
 
 			// Flips a vehicle so the player doesnt have to call an admin
 			// Check if vector up is fucked
@@ -3900,28 +3900,28 @@ class CfgInteractionMenus
 			};
 
 			// Locks a vehicle
-			class Lock: ExileAbstractAction
+			/* class Lock: ExileAbstractAction
 			{
 				title = "Lock";
 				condition = "((locked ExileClientInteractionObject) isEqualTo 0) && ((locked ExileClientInteractionObject) != 1)";
 				action = "true spawn ExileClient_object_lock_toggle";
-			};
+			}; */
 
 			// Unlocks a vehicle
-			class Unlock: ExileAbstractAction
+			/*class Unlock: ExileAbstractAction
 			{
 				title = "Unlock";
 				condition = "((locked ExileClientInteractionObject) isEqualTo 2) && ((locked ExileClientInteractionObject) != 1)";
 				action = "false spawn ExileClient_object_lock_toggle";
-			};
+			}; */
 
 			// Hot-wires a vehicle
-			class Hotwire: ExileAbstractAction
+			/*class Hotwire: ExileAbstractAction
 			{
 				title = "Hotwire";
 				condition = "((locked ExileClientInteractionObject) isEqualTo 2) && ((locked ExileClientInteractionObject) != 1)";
 				action = "['HotwireVehicle', _this select 0] call ExileClient_action_execute";
-			};
+			}; */
 
 			// Repairs a vehicle to 100%. Requires Duckttape
 			class Repair: ExileAbstractAction
@@ -4240,7 +4240,7 @@ class CfgInteractionMenus
 		class Actions
 		{
 			// Locks a vehicle
-			class Lock: ExileAbstractAction
+			/*  class Lock: ExileAbstractAction
 			{
 				title = "Lock";
 				condition = "((locked ExileClientInteractionObject) isEqualTo 0) && ((locked ExileClientInteractionObject) != 1)";
@@ -4261,7 +4261,7 @@ class CfgInteractionMenus
 				title = "Hotwire";
 				condition = "((locked ExileClientInteractionObject) isEqualTo 2) && ((locked ExileClientInteractionObject) != 1)";
 				action = "['HotwireVehicle', _this select 0] call ExileClient_action_execute";
-			};
+			}; */
 
 			// Repairs a vehicle to 100%. Requires Duckttape
 			class Repair: ExileAbstractAction
@@ -4725,13 +4725,13 @@ class CfgTerritories
 	 * Defines the minimum distance to safe zones / trader cities where players
 	 * cannot build territories
 	 */
-	minimumDistanceToTraderZones = 500;
+	minimumDistanceToTraderZones = 750;
 
 	/**
 	 * Defines the minimum distance to spawn zones where players
 	 * cannot build territories
 	 */
-	minimumDistanceToSpawnZones = 500;
+	minimumDistanceToSpawnZones = 750;
 
 	// Amount of pop tabs per object to pay
 	popTabAmountPerObject = 10;

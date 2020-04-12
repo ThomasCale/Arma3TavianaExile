@@ -42,6 +42,6 @@ if ( alive player ) then {
 	<t size='22' font='PuristaMedium' color='%3'>Welcome to the Anomaly Gaming Exile server!</t>",_generaltitlecolor, name player, _generaltextcolor, _servername, worldName], _generaltoastcolor] call ExileClient_gui_toaster_addToast; sleep 45;
 	
 	[format ["<t size='30' font='OrbitronMedium' color='%1'>Discord</t><br />
-	<t size='21' font='PuristaMedium' color='%2'>https://discord.gg/7z5DS8S</t>", _generaltitlecolor, _generaltextcolor, _teamspeakip], _generaltoastcolor] call ExileClient_gui_toaster_addToast; sleep 45;
+	<t size='21' font='PuristaMedium' color='%2'>https://discord.gg/NfCZA9q</t>", _generaltitlecolor, _generaltextcolor, _teamspeakip], _generaltoastcolor] call ExileClient_gui_toaster_addToast; sleep 45;
 	
 };

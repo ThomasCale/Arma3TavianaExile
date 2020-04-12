@@ -12,10 +12,10 @@ private ["_servername","_serverclantag","_website","_teamspeakip","_donatelink",
 
 //	Modify the below variables to what you want to be displayed as messages to players.
 
-_servername = "Zocker Community";
-_serverclantag = "ZC";
+_servername = "Anomaly Gaming";
+_serverclantag = "A";
 _website = "";
-_teamspeakip = "";
+_teamspeakip = "https://discord.gg/NfCZA9q";
 _donatelink = "";
 
 //	The colors can be edited below and there is a great tool I recommend you use to get the color codes designed by |GITS|Root here: https://arma3rgb.com
