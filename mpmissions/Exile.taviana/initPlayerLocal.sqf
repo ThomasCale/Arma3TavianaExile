@@ -11,6 +11,10 @@
 
 if (!hasInterface || isServer) exitWith {};
 
+//Bones Super Advanced Repair System (SARS)
+Bones_fnc_salvageAndRepairMenu = compileFinal preprocessFileLineNumbers "Custom\advancedRepair\Bones_fnc_salvageAndRepairMenu.sqf"; 
+
+
 // 18 NPCs
 private _npcs = [
 ["Exile_Trader_Armory", ["acts_StandingSpeakingUnarmed"], "Exile_Trader_Armory", "WhiteHead_18", [["arifle_AK47","","","",["30Rnd_762x39_AK47_M",30],[],""],[],[],["U_BG_Guerilla3_1",[["30Rnd_762x39_AK47_M",2,30]]],[],[],"H_Shemag_olive","G_Shades_Black",[],["","","","","",""]], [15293.8, 16932.5, 31.2758], [-0.418961, -0.908004, 0], [0, 0, 1]],

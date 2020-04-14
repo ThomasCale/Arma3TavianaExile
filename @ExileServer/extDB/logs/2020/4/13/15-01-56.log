@@ -1,0 +1,23 @@
+extDB2: Version: 70
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 8 Cores, Setting up 6 Worker Threads
+
+
+[01:01:56:789322 +11:00] [Thread 7268] extDB2: Database Type: MySQL
+[01:01:56:792294 +11:00] [Thread 7268] extDB2: Database Session Pool Started
+[01:01:56:796730 +11:00] [Thread 7268] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\Arma3TavianaExile\@ExileServer\extDB\sql_custom_v2\exile.ini
+[01:01:56:796886 +11:00] [Thread 7268] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[01:02:46:778607 +11:00] [Thread 7268] extDB2: SQL_CUSTOM_V2: Error StatementException: MySQL: [MySQL]: [Comment]: mysql_stmt_execute error	[mysql_stmt_error]: Cannot add or update a child row: a foreign key constraint fails (`exile`.`vehicle`, CONSTRAINT `vehicle_ibfk_1` FOREIGN KEY (`account_uid`) REFERENCES `account` (`uid`) ON DELETE CASCADE)	[mysql_stmt_errno]: 1452	[mysql_stmt_sqlstate]: 23000	[statemnt]: INSERT INTO vehicle SET class = ?, account_uid = ?, is_locked = ?, position_x = ?, position_y = ?, position_z = ?, direction_x = ?, direction_y = ?, direction_z = ?, up_x = ?, up_y = ?, up_z = ?, pin_code = ?
+[01:02:46:778737 +11:00] [Thread 7268] extDB2: SQL_CUSTOM_V2: Wiping Statements + Session
+[01:02:46:778765 +11:00] [Thread 7268] extDB2: SQL_CUSTOM_V2: Error: UniqueID: 1 Input String: insertVehicle:::-1:0:0:0:0:0:0:0:0:0:
+[01:04:10:078483 +11:00] [Thread 7268] extDB2: Stopping ...

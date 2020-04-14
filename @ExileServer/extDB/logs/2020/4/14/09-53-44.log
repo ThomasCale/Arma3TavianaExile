@@ -1,0 +1,872 @@
+extDB2: Version: 70
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 8 Cores, Setting up 6 Worker Threads
+
+
+[19:53:45:158213 +11:00] [Thread 11124] extDB2: Database Type: MySQL
+[19:53:45:161238 +11:00] [Thread 11124] extDB2: Database Session Pool Started
+[19:53:45:162870 +11:00] [Thread 11124] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\Arma3TavianaExile\@ExileServer\extDB\sql_custom_v2\exile.ini
+[19:53:45:163027 +11:00] [Thread 11124] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[19:58:33:255777 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[19:58:33:255834 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[19:58:46:020146 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[19:58:46:020202 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[19:58:56:385421 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[19:58:56:385475 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[19:59:08:906852 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[19:59:08:906907 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[19:59:10:008403 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[19:59:10:008454 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[19:59:11:992972 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[19:59:11:993024 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[19:59:20:223936 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[19:59:20:223992 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[19:59:26:176747 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[19:59:26:176804 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[19:59:27:884917 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[19:59:27:884970 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[19:59:41:589354 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[19:59:41:589412 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:00:01:953051 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:00:01:953113 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:00:14:397815 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:00:14:397925 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:00:16:443798 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:00:16:443852 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:00:27:575578 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:00:27:575635 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:00:30:171435 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:00:30:171484 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:00:32:760743 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:00:32:760802 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:00:41:711441 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:00:41:711497 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:00:43:519256 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:00:43:519307 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:00:49:802945 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:00:49:803016 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:00:52:679073 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:00:52:679125 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:00:54:960448 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:00:54:960521 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:01:10:118518 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:01:10:118576 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:01:12:071030 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Input String updateInfection:0:0
+[20:01:12:071063 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Expected: 3 Got: 2
+[20:01:12:472640 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:01:12:472693 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:01:14:548698 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:01:14:548753 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:01:18:237881 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:01:18:237939 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:01:26:648330 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:01:26:648450 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:01:43:186914 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:01:43:186972 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:01:57:290977 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:01:57:291033 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:02:10:426513 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:02:10:426572 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:02:13:751549 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:02:13:751601 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:02:26:409529 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:02:26:409586 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:02:32:251060 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:02:32:251117 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:02:51:451602 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:02:51:451658 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:05:48:265476 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:05:48:265534 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:05:49:372113 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:05:49:372162 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:05:51:564024 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:05:51:564074 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:06:06:564458 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:06:06:564515 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:06:12:662670 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:06:12:662733 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:06:16:414703 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:06:16:414755 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:06:22:158203 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:06:22:158259 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:06:27:332025 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:06:27:332087 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:06:30:451383 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:06:30:451437 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:06:35:216284 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:06:35:216340 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:08:41:438128 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:08:41:438184 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:09:08:271597 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:09:08:271660 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:09:11:072069 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:09:11:072120 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:09:11:733056 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:09:11:733105 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:09:13:035570 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:09:13:035622 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:09:16:755294 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:09:16:755351 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:09:27:789571 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:09:27:789631 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:09:49:750536 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:09:49:750591 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:09:54:659304 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:09:54:659356 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:09:55:059068 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:09:55:059124 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:09:58:951756 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:09:58:951809 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:10:06:128775 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:10:06:128832 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:10:06:977943 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:10:06:978054 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:10:14:083842 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:10:14:083897 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:10:16:151916 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:10:16:151967 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:10:17:431744 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:10:17:431791 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:10:18:046475 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:10:18:046530 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:10:26:265260 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:10:26:265317 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:10:26:566255 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:10:26:566306 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:10:27:864345 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:10:27:864395 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:10:46:330069 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:10:46:330127 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:10:46:542224 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:10:46:542283 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:10:48:486487 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:10:48:486538 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:10:58:436347 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:10:58:436403 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:02:564377 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:11:02:564419 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:03:438233 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:11:03:438289 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:06:256267 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:11:06:256318 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:14:523417 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:11:14:523476 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:17:585040 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:11:17:585089 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:17:858646 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:11:17:858696 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:20:758198 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:11:20:758252 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:22:645690 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:11:22:645741 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:23:111927 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:11:23:111979 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:25:218907 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:11:25:218976 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:27:622452 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:11:27:622510 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:28:407126 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:11:28:407179 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:32:184194 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:11:32:184247 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:33:763426 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:11:33:763500 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:33:784270 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:11:33:784324 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:35:656348 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:11:35:656398 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:40:718953 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:11:40:719011 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:42:965939 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:11:42:965992 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:48:178192 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:11:48:178252 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:50:686038 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:11:50:686090 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:51:787487 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:11:51:787540 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:52:325628 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:11:52:325679 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:55:090931 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:11:55:090989 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:55:643318 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:11:55:643373 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:55:706267 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:11:55:706319 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:56:686160 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:11:56:686211 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:11:57:833768 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:11:57:833820 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:12:01:568504 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:12:01:568562 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:12:09:031258 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:12:09:031314 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:12:20:006918 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:12:20:006975 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:12:28:412674 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:12:28:412731 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:12:30:217281 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:12:30:217334 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:12:33:134987 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:12:33:135040 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:12:34:839983 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:12:34:840042 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:12:41:711780 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:12:41:711836 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:12:45:015824 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:12:45:015877 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:12:50:347204 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:12:50:347279 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:12:51:344746 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:12:51:344795 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:12:52:742866 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:12:52:742920 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:12:54:477853 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:12:54:477929 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:13:05:488693 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:13:05:488749 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:13:09:101959 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:13:09:102012 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:13:10:930206 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:13:10:930263 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:13:12:701420 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:13:12:701470 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:13:21:835876 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:13:21:835935 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:13:25:316118 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:13:25:316168 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:13:26:988677 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:13:26:988736 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:13:29:495158 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:13:29:495220 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:13:43:068948 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:13:43:069064 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:13:43:896568 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:13:43:896618 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:15:14:377433 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:15:14:377494 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:15:16:545851 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:15:16:545903 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:15:18:777943 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:15:18:777994 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:15:22:165660 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:15:22:165717 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:22:24:007851 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:22:24:007907 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:23:35:763805 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:23:35:763862 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:25:55:983329 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:25:55:983384 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:31:14:739509 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Input String updateInfection:0:0
+[20:31:14:739555 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Expected: 3 Got: 2
+[20:31:48:198935 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:31:48:198992 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:32:30:096507 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:32:30:096563 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:33:59:886800 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Input String updateInfection:0:0
+[20:33:59:886842 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Expected: 3 Got: 2
+[20:36:15:361002 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Input String updateInfection:0:0
+[20:36:15:361048 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Expected: 3 Got: 2
+[20:36:34:686358 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Input String updateInfection:0:0
+[20:36:34:686404 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Expected: 3 Got: 2
+[20:37:27:309588 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:37:27:309645 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:37:30:040834 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:37:30:040890 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:38:32:486888 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:38:32:486944 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:38:35:565135 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:38:35:565185 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:38:41:647281 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:38:41:647392 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:42:59:344021 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Input String updateInfection:0:0
+[20:42:59:344070 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Expected: 3 Got: 2
+[20:43:06:078144 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Input String updateInfection:0:0
+[20:43:06:078188 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Expected: 3 Got: 2
+[20:43:13:878847 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Input String updateInfection:0:0
+[20:43:13:878893 +11:00] [Thread 11848] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Expected: 3 Got: 2
+[20:43:37:829104 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Input String updateInfection:0:0
+[20:43:37:829154 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Expected: 3 Got: 2
+[20:43:47:832460 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Input String updateInfection:0:0
+[20:43:47:832504 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Expected: 3 Got: 2
+[20:44:49:975029 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:44:49:975087 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:44:52:035639 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:44:52:035704 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:44:54:701911 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:44:54:701961 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:44:55:134523 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:44:55:134575 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:44:59:926475 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:44:59:926527 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:45:05:532210 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:45:05:532291 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:45:07:237294 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:45:07:237341 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:45:18:207500 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:45:18:207559 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:45:18:973496 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:45:18:973549 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:45:20:381852 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:45:20:381903 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:45:28:249113 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:45:28:249166 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:45:28:695102 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:45:28:695152 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:45:40:507697 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:45:40:507751 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:45:46:044863 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:45:46:044919 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:46:15:069318 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:46:15:069376 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:46:19:731573 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:46:19:731624 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:46:24:279676 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:46:24:279733 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:46:26:590071 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:46:26:590123 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:46:32:553359 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:46:32:553411 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:46:44:778392 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:46:44:778448 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:46:46:789314 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:46:46:789367 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:46:50:209276 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:46:50:209330 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:47:15:565572 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:47:15:565634 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:47:22:934476 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:47:22:934555 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:47:25:949156 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:47:25:949205 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:47:38:046653 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:47:38:046709 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:47:57:243777 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:47:57:243834 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:47:58:755827 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:47:58:755875 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:48:08:396812 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:48:08:396871 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:48:15:308822 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:48:15:308875 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:48:18:570157 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:48:18:570208 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:48:26:414817 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:48:26:414878 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:48:46:461238 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:48:46:461294 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:48:51:029876 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:48:51:029926 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:48:52:374618 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:48:52:374672 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:49:04:357232 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:49:04:357288 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:49:06:127829 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:49:06:127881 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:49:14:327677 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:49:14:327734 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:49:18:288407 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:49:18:288458 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:49:25:990067 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:49:25:990123 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:49:29:550358 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[20:49:29:550410 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:49:29:779609 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:49:29:779660 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:49:31:454048 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:49:31:454102 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:49:35:573521 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[20:49:35:573571 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:51:58:028570 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:51:58:028640 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:52:06:402070 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Input String updateInfection:0:0
+[20:52:06:402113 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Expected: 3 Got: 2
+[20:52:18:760646 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[20:52:18:760702 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[20:57:48:052496 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Input String updateInfection:0:0
+[20:57:48:052543 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Expected: 3 Got: 2
+[21:05:39:739637 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Input String updateInfection:0:0
+[21:05:39:739671 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Expected: 3 Got: 2
+[21:17:03:808925 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:17:03:809050 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:18:675015 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:17:18:675070 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:21:085393 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:17:21:085445 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:21:889847 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:17:21:889902 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:30:848728 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:17:30:848784 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:32:917822 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:17:32:917875 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:33:486855 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:17:33:486906 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:36:164626 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:17:36:164682 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:36:717774 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:17:36:717824 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:36:894239 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:17:36:894289 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:37:239175 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:17:37:239234 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:37:652296 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:17:37:652347 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:41:213965 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:17:41:214039 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:45:284340 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:17:45:284390 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:46:999326 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:17:46:999385 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:48:049308 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:17:48:049362 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:49:442715 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:17:49:442769 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:49:610939 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:17:49:610988 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:49:909552 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:17:49:909608 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:50:011512 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:17:50:011562 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:50:893975 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:17:50:894027 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:51:496863 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:17:51:496920 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:52:714277 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:17:52:714326 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:53:073747 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:17:53:073800 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:17:59:298168 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:17:59:298226 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:01:470511 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:18:01:470560 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:03:170038 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:18:03:170089 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:03:981465 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:18:03:981514 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:04:192625 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:18:04:192677 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:06:114556 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:18:06:114612 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:07:344443 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:18:07:344496 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:08:421780 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:18:08:421832 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:09:630352 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:18:09:630399 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:11:629194 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:18:11:629255 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:12:163801 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:18:12:163853 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:14:402733 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:18:14:402786 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:15:395280 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:18:15:395332 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:16:372044 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:18:16:372095 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:17:245091 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:18:17:245147 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:18:051719 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:18:18:051770 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:18:502314 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:18:18:502366 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:19:708233 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:18:19:708287 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:19:835428 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:18:19:835481 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:27:021177 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:18:27:021234 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:27:450170 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:18:27:450221 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:27:558893 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:18:27:558944 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:27:660874 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:18:27:660926 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:29:721307 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:18:29:721353 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:36:877117 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:18:36:877174 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:42:805397 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:18:42:805457 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:44:900020 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:18:44:900072 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:18:50:151363 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:18:50:151419 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:27:06:471691 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:27:06:471755 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:27:43:416926 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:27:43:416975 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:29:40:799598 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:29:40:799654 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:30:05:999498 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:30:05:999545 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:30:07:589334 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:30:07:589385 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:30:15:012126 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:30:15:012183 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:32:08:666972 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:32:08:667033 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:32:08:795385 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:32:08:795436 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:32:14:885304 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:32:14:885361 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:32:40:290328 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:32:40:290386 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:32:46:972589 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:32:46:972646 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:33:28:089258 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:33:28:089314 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:33:36:575415 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:33:36:575473 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:33:38:400160 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:33:38:400210 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:33:50:066367 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:33:50:066424 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:34:08:583089 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:34:08:583147 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:34:12:515944 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:34:12:515994 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:34:20:283463 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:34:20:283520 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:35:56:805662 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:35:56:805717 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:36:06:515359 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:36:06:515414 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:36:10:513641 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:36:10:513691 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:36:46:124864 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[21:36:46:124923 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:36:52:176786 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[21:36:52:176843 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:36:54:062160 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[21:36:54:062211 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:36:56:317779 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[21:36:56:317830 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:37:01:073337 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[21:37:01:073395 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:37:06:167672 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[21:37:06:167726 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:37:21:074834 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[21:37:21:074893 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:37:29:987051 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[21:37:29:987109 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:37:30:348688 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:37:30:348740 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:37:32:356345 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:37:32:356398 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:37:33:468088 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[21:37:33:468140 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:37:47:511114 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:37:47:511171 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:37:57:015223 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[21:37:57:015281 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:38:04:842319 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[21:38:04:842377 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:38:34:530728 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[21:38:34:530785 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:38:45:388424 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:38:45:388540 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:38:56:364581 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:38:56:364637 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:39:02:788110 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:39:02:788165 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:39:02:838683 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:39:02:838735 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:39:02:838789 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:39:02:838810 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:39:13:596660 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:39:13:596729 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:39:13:620271 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:39:13:620330 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:39:13:620470 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:39:13:620508 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:39:33:942727 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:39:33:942786 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:39:36:419545 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:39:36:419597 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:39:36:479864 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:39:36:479917 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:39:45:865590 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:39:45:865647 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:39:50:511413 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:39:50:511463 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:39:58:871836 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:39:58:871893 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:40:06:050369 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:40:06:050433 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:40:07:357963 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:40:07:358013 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:40:22:396509 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:40:22:396565 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:40:38:045024 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:40:38:045084 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:40:45:525773 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:40:45:525832 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:40:48:585689 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:40:48:585743 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:40:53:202698 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:40:53:202756 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:40:53:521366 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:40:53:521428 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:40:57:961028 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:40:57:961082 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:41:09:402122 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:41:09:402180 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:41:17:489807 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:41:17:489862 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:42:36:008509 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:42:36:008568 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:42:39:550185 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:42:39:550236 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:42:44:503392 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:42:44:503451 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:42:47:131691 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:42:47:131742 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:44:10:003337 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:44:10:003395 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:44:12:860608 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:44:12:860664 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:45:27:501957 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:45:27:502015 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:45:35:304561 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:45:35:304619 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:45:49:513119 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:45:49:513176 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:46:39:967536 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:46:39:967595 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:46:40:136517 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:46:40:136569 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:46:41:298861 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:46:41:298915 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:47:10:051150 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[21:47:10:051209 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:49:17:238638 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Input String updateInfection:0:0
+[21:49:17:238681 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Expected: 3 Got: 2
+[21:49:35:359781 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Input String updateInfection:0:0
+[21:49:35:359815 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Expected: 3 Got: 2
+[21:51:10:064618 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:51:10:064675 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:53:54:559809 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:53:54:559866 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:54:46:463005 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:54:46:463061 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:54:48:100694 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[21:54:48:100748 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[21:57:59:189354 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[21:57:59:189412 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:05:30:216731 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Input String updateInfection:0:0
+[22:05:30:216773 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Expected: 3 Got: 2
+[22:08:28:156315 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[22:08:28:156373 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:08:46:692282 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[22:08:46:692394 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:08:49:994499 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[22:08:49:994547 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:10:20:162777 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[22:10:20:162833 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:10:59:557228 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[22:10:59:557286 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:13:45:765735 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[22:13:45:765796 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:14:01:516953 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[22:14:01:517008 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:14:54:128419 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:14:54:128476 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:24:47:057466 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Input String updateInfection:0:0
+[22:24:47:057501 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Expected: 3 Got: 2
+[22:25:26:514058 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:25:26:514115 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:25:30:181294 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:25:30:181344 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:25:42:978612 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[22:25:42:978667 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:27:30:108536 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:27:30:108592 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:27:40:329469 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[22:27:40:329525 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:27:51:763288 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[22:27:51:763344 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:27:57:372363 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[22:27:57:372418 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:28:05:605621 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[22:28:05:605676 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:28:07:935817 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[22:28:07:935870 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:28:18:034060 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:28:18:034115 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:28:24:823417 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:28:24:823473 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:28:39:301124 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:28:39:301185 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:28:45:443233 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:28:45:443287 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:29:09:789181 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:29:09:789237 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:29:17:141727 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:29:17:141784 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:29:17:204959 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:29:17:205010 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:29:17:417177 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:29:17:417230 +11:00] [Thread 9428] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:29:17:974653 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:29:17:974703 +11:00] [Thread 6592] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:30:53:513723 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Input String updateInfection:0:0
+[22:30:53:513772 +11:00] [Thread 14164] extDB2: SQL_CUSTOM_V2: Incorrect Number of Inputs: Expected: 3 Got: 2
+[22:31:04:272988 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:31:04:273055 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:35:52:893829 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:35:52:893886 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:36:11:408100 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:36:11:408160 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:36:14:705740 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:36:14:705793 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:36:20:596895 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:36:20:596954 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:36:22:698959 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:36:22:699011 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:37:00:195335 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:37:00:195391 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:37:06:405907 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:37:06:405968 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:37:11:874297 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:37:11:874355 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:37:12:836856 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:37:12:836907 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:37:16:565550 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:37:16:565602 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:37:24:487770 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:37:24:487826 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:37:36:628986 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:37:36:629042 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:37:37:468839 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:37:37:468880 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:37:39:793953 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:37:39:794005 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:37:41:597899 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:37:41:597951 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:37:43:299508 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:37:43:299566 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:37:44:311823 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:37:44:311873 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:37:49:582566 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:37:49:582625 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:38:28:628117 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:38:28:628172 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:40:48:611827 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:40:48:611945 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:40:58:167156 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:40:58:167210 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:41:12:616239 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:41:12:616303 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:42:11:773460 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:42:11:773515 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:42:14:467133 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:42:14:467185 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:44:13:434116 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:44:13:434173 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:45:08:376279 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:45:08:376335 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:45:59:661251 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:45:59:661308 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:46:02:954520 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:46:02:954572 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:46:20:509976 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:46:20:510031 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:46:32:261280 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:46:32:261323 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:46:38:011280 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[22:46:38:011325 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:46:45:560025 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[22:46:45:560088 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:46:48:284119 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[22:46:48:284172 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:46:49:231445 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[22:46:49:231532 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:46:51:131985 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[22:46:51:132040 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:46:56:519369 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[22:46:56:519425 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:47:01:372506 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:47:01:372558 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:47:15:278433 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:47:15:278492 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:47:44:283112 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:47:44:283169 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:48:02:248469 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:48:02:248526 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:48:35:338097 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:48:35:338155 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:48:51:632750 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[22:48:51:632807 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:49:09:094907 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:49:09:094965 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:49:13:934170 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:49:13:934222 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:49:18:048898 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:49:18:048952 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:49:33:083117 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:49:33:083174 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:49:34:336815 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[22:49:34:336867 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:49:48:826524 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:49:48:826580 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:50:02:067280 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:50:02:067336 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:50:07:039649 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:50:07:039701 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:50:32:221709 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[22:50:32:221764 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:50:32:457778 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:50:32:457830 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:51:00:896846 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[22:51:00:896904 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:51:02:357548 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[22:51:02:357601 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:51:39:110972 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:51:39:111030 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:52:01:251821 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:52:01:251879 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:52:23:906289 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:52:23:906346 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:52:28:383262 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:52:28:383315 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:52:28:875026 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198026088898
+[22:52:28:875080 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:52:44:552295 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:52:44:552353 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:54:06:859890 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[22:54:06:859945 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:54:12:627419 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[22:54:12:627476 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:54:34:787762 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:54:34:787817 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:55:28:462423 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:55:28:462479 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:55:31:329228 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:55:31:329281 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:55:38:979934 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:55:38:979990 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:56:20:747613 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[22:56:20:747670 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:56:23:051755 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[22:56:23:051810 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:58:44:030186 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[22:58:44:030242 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:58:47:958619 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198018530308
+[22:58:47:958670 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:59:34:847224 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[22:59:34:847282 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:59:38:266750 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198504702925
+[22:59:38:266802 +11:00] [Thread 6344] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[22:59:45:902742 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String addAccountZombieKill:76561198073016657
+[22:59:45:902797 +11:00] [Thread 9032] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname addAccountZombieKill
+[23:10:04:019465 +11:00] [Thread 11124] extDB2: Stopping ...

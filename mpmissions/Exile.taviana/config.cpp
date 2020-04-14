@@ -3452,13 +3452,17 @@ class CfgExileEnvironment
 		{
 			// 1 = enabled, 0 = disabled
 			enable = 1;
+			contaminatedZones[] = 
+			{
+				{{22557,19629,0},1000,1000}
+			};
 		};
 
 		class Temperature
 		{
 			// Temperature in °C for the time of day, per hour
 			// Add the first index to the last index, so it is 25 indizes!
-			daytimeTemperature[] = {15.93,16.89,18.42,20.40,22.68,25.10,27.48,29.63,31.40,32.66,33.32,33.80,33.80,33.32,32.66,31.40,29.63,27.48,25.10,22.68,20.40,18.42,16.89,15.93,15.93};
+			daytimeTemperature[] = {-2.00,-1.77,-1.12,-0.10,1.24,2.78,4.40,6.00,7.46,8.65,9.50,9.90,9.90,9.50,8.65,7.46,6.00,4.40,2.78,1.24,-0.10,-1.12,-1.77,-2.00,-2.00};
 		
 			// Temperature change in °C when it is 100% overcast
 			overcast = -5;
@@ -3517,39 +3521,39 @@ class CfgExileEnvironment
 		};
 	};
 
-	class Taviana: Altis 
+	class Taviana
 	{
-		class FireFlies: FireFlies
+		class FireFlies
 		{
 			enable = 1;
 		};
 
-		class Anomalies: Anomalies
+		class Anomalies
 		{
 			enable = 0;
 		};
 
-		class Breathing: Breathing
+		class Breathing
 		{
 			enable = 1;
 		};
 
-		class Snow: Snow
+		class Snow
 		{
 			enable = 1;
 			surfaces[] = {"#nam_snow"};
 		};
 
-		class Radiation: Radiation
+		class Radiation
 		{
 			enable = 1;
 			contaminatedZones[] = 
 			{
-				
+				{{22557,19629,0},1000,1000}
 			};
 		};
 
-		class Temperature: Temperature
+		class Temperature
 		{
 			daytimeTemperature[] = {-2.00,-1.77,-1.12,-0.10,1.24,2.78,4.40,6.00,7.46,8.65,9.50,9.90,9.90,9.50,8.65,7.46,6.00,4.40,2.78,1.24,-0.10,-1.12,-1.77,-2.00,-2.00};
 		};
@@ -3843,11 +3847,18 @@ class CfgInteractionMenus
 			}; */
 
 			// Repairs a vehicle to 100%. Requires Duckttape
-			class Repair: ExileAbstractAction
+			/*class Repair: ExileAbstractAction
 			{
 				title = "Repair";
 				condition = "true";
 				action = "['RepairVehicle', _this select 0] call ExileClient_action_execute";
+			};*/
+			//Bones Custom Vehicle Repairs
+			class Repair: ExileAbstractAction
+			{
+			title = "Repair/Salvage";
+			condition = "true";
+			action = "_this call Bones_fnc_salvageAndRepairMenu";
 			};
 
 			// Hot-wires a vehicle
@@ -3924,11 +3935,19 @@ class CfgInteractionMenus
 			}; */
 
 			// Repairs a vehicle to 100%. Requires Duckttape
-			class Repair: ExileAbstractAction
+			/*class Repair: ExileAbstractAction
 			{
 				title = "Repair";
 				condition = "true";
 				action = "['RepairVehicle', _this select 0] call ExileClient_action_execute";
+			};*/
+
+			// Bones Custom Air Repairs
+			class Repair: ExileAbstractAction
+			{
+			title = "Repair/Salvage";
+			condition = "true";
+			action = "_this call Bones_fnc_salvageAndRepairMenu";
 			};
 
 			// Flips a vehicle so the player doesnt have to call an admin
@@ -4412,7 +4431,9 @@ class CfgInteractionModels
 		models[] = 	
 		{
 			"watercooler",
-			"Land_Sink_F"
+			"Land_Sink_F",
+			"wellpump",
+			"pumpa"
 		};
 	};
 
@@ -4542,7 +4563,27 @@ class CfgInteractionModels
 			"fs_feed_f.p3d",
 			//Tanoa
 			"fuelstation_01_pump_f.p3d",
-			"fuelstation_02_pump_f.p3d"
+			"fuelstation_02_pump_f.p3d",
+			//Taviana
+			"A_FuelStation_Shed",
+			"Ind_TankSmall",
+			"A_FuelStation_Feed",
+			"FuelStation_Feed_PMC",
+			"Ind_FuelStation_Feed_EP1",
+			"FuelStation_03_pump_F",
+			"fuelstation",
+			"fuelstation_army",
+			"fuelstation_novi",
+			"Land_A_FuelStation_Shed",
+			"Land_Ind_TankSmall",
+			"Land_A_FuelStation_Feed",
+			"Land_fs_feed_F",
+			"Land_FuelStation_Feed_PMC",
+			"Land_Ind_FuelStation_Feed_EP1",
+			"Land_FuelStation_03_pump_F",
+			"FuelStation_Shed",
+			"FuelStation_Feed",
+			"FuelStation_Feed_EP1"
 		};	
 	};
 };

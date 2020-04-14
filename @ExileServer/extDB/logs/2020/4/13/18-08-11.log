@@ -1,0 +1,20 @@
+extDB2: Version: 70
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 8 Cores, Setting up 6 Worker Threads
+
+
+[04:08:12:018611 +11:00] [Thread 10396] extDB2: Database Type: MySQL
+[04:08:12:021717 +11:00] [Thread 10396] extDB2: Database Session Pool Started
+[04:08:12:025914 +11:00] [Thread 10396] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\Arma3TavianaExile\@ExileServer\extDB\sql_custom_v2\exile.ini
+[04:08:12:026073 +11:00] [Thread 10396] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[04:10:53:482600 +11:00] [Thread 10396] extDB2: Stopping ...

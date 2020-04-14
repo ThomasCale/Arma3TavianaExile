@@ -43,5 +43,11 @@ if ( alive player ) then {
 	
 	[format ["<t size='30' font='OrbitronMedium' color='%1'>Discord</t><br />
 	<t size='21' font='PuristaMedium' color='%2'>https://discord.gg/NfCZA9q</t>", _generaltitlecolor, _generaltextcolor, _teamspeakip], _generaltoastcolor] call ExileClient_gui_toaster_addToast; sleep 45;
+
+	[format ["<t size='30' font='OrbitronMedium' color='%1'>Vehicles!</t><br />
+	<t size='21' font='PuristaMedium' color='%2'>Vehicles you find are persistent on this server and cannot be locked!</t>", _generaltitlecolor, _generaltextcolor, _teamspeakip], _generaltoastcolor] call ExileClient_gui_toaster_addToast; sleep 45;
+
+	[format ["<t size='30' font='OrbitronMedium' color='%1'>Vehicles!</t><br />
+	<t size='21' font='PuristaMedium' color='%2'>Build a garage and lock your vehicles away to keep them safe!</t>", _generaltitlecolor, _generaltextcolor, _teamspeakip], _generaltoastcolor] call ExileClient_gui_toaster_addToast; sleep 45;
 	
 };
